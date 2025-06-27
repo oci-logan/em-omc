@@ -1,0 +1,3 @@
+# Troubleshoot & Optimize performance of Cloud apps business flows with Log Analytics.
+
+Join this hands-on lab to streamline cross-team troubleshooting for Oracle Fusion Applications using a Purchase Order (PO) business flow as the core example. Learn how Oracle Log Analytics enables DevOps, integration, and application teams to collaboratively investigate performance and reliability issues across Fusion Applications, Oracle Integration Cloud (OIC), and Oracle Database. You’ll simulate a real-world PO scenario and apply advanced log-based correlation techniques to monitor, trace, and troubleshoot the end-to-end flow. Gain practical observability skills to improve performance, resilience, and operational efficiency in Oracle-driven business processes.
